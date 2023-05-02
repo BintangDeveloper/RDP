@@ -1,4 +1,4 @@
-name: RDP1
+name: RDP
 
 on: workflow_dispatch
 
