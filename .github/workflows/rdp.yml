@@ -32,7 +32,7 @@ jobs:
 
     - name: Make YML file for NGROK.
 
-      run: start NGROK-AP.bat
+      run: start NGROK-APP.bat
 
     - name: Enable RDP Access.
 
