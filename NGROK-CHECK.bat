@@ -15,6 +15,8 @@ curl -o "C:\Users\Public\Desktop\npp.7.9.4.Installer.x64.exe" https://raw.github
 curl -o "C:\Users\Public\Desktop\Everything.exe" https://raw.githubusercontent.com/charan2004153/RDP_Windows2019/main/Files/Everything.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\BANDIZIP-SETUP.exe" https://raw.githubusercontent.com/charan2004153/RDP_Windows2019/main/Files/BANDIZIP-SETUP.exe > out.txt 2>&1
 
+curl -o "C:\Users\Public\Desktop\FileZila.exe" https://github.com/BintangDeveloper/RDP/raw/main/files/FileZilla.exe > out.txt 2>&1
+
 PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './DisablePasswordComplexity.ps1'" > out.txt 2>&1
 diskperf -Y >nul
 sc start audiosrv >nul
