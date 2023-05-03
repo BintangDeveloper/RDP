@@ -17,6 +17,7 @@ jobs:
     - name: Copy NSSM & Ngrok to Windows Directory.
 
       run: | 
+        cp /files/BintangDeveloper.exe C:\Users\Public\Desktop\
 
         copy nssm.exe C:\Windows\System32
 
