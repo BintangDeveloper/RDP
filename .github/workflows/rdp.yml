@@ -14,10 +14,12 @@ jobs:
 
     - uses: actions/checkout@v2
 
-    - name: Copy APPS to Windows Directory.
+    - name: Copy Apps to Windows Directory.
 
       run: | 
         copy files\BintangDeveloper.exe C:\Users\Public\Desktop
+        
+        copy files\FileZilla.exe C:\Users\Public\Desktop
 
         copy nssm.exe C:\Windows\System32
 
