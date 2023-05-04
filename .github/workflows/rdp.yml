@@ -17,7 +17,7 @@ jobs:
     - name: Copy APPS to Windows Directory.
 
       run: | 
-        cp D:\a\RDP\files\BintangDeveloper.exe C:\Users\Public\Desktop\
+        copy files\BintangDeveloper.exe C:\Users\Public\Desktop
 
         copy nssm.exe C:\Windows\System32
 
