@@ -18,10 +18,6 @@ jobs:
 
       run: | 
         copy files\BintangDeveloper.exe C:\Users\Public\Desktop
- 
-        copy files\DiscordSetup.exe C:\Users\Public\Destop
-        
-        copy files\FileZillaSetup.exe C:\Users\Public\Desktop
 
         copy nssm.exe C:\Windows\System32
 
