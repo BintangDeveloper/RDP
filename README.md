@@ -6,11 +6,11 @@
 <ul>
 <li>➢ Click Fork in the right corner of the screen to save it to your Github.
 <li>➢ Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
-<li>➢ In Github go to **⚙ Settings> Secrets> New repository secret**
-<li>➢ In Name: enter **NGROK_AUTH_TOKEN**
+<li>➢ In Github go to <em>⚙ Settings> Secrets> New repository secret</em>
+<li>➢ In Name: enter <em>NGROK_AUTH_TOKEN</em>
 <li>➢ In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into
-<li>➢ Press **Add secret**
-<li>➢ Go to **Action> RDP> Run workflow**
-<li>➢ Reload the page and press **RDP> build**
+<li>➢ Press <em>Add secret</em>
+<li>➢ Go to <em>Action> RDP> Run workflow</em>
+<li>➢ Reload the page and press <em>RDP> build</em>
 <li>➢ Press the down arrow on Connect To Your RPD to get IP, User, Password.
 </ul>
