@@ -1,5 +1,7 @@
 # RDP Windows Server 2022
 
+[![LICENCE](https://img.shields.io/github/license/BintangDeveloper/RDP)](https://github.com/BintangDeveloper/RDP)
+
 **Real url:** ``` https://github.com/BintangDeveloper/RDP ``` <hr>
 **Windows Server FREE with Github with RDP Access (ngrok US)**
 
